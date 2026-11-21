@@ -1,0 +1,6 @@
+{
+  "log_file": "activity_history.log",
+  "error_log": "activity_errors.log",
+  "directory_check_interval_sec": 1,
+  "process_check_interval_sec": 5
+}
